@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: WSPturismo
+        psr4_prefix: WSPturismo
+        src_path: app
